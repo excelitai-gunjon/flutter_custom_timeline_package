@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:timeline_pstar_clean/Widgets/TimelineTimelines.dart';
 
-void main() {
+void main() {//from main
   runApp(const MyApp());
 }
 
