@@ -1,5 +1,5 @@
 
-// added- responsive app dimension file for Calculating aspect ratio based on width of our Figma design
+/// added- responsive app dimension file for Calculating aspect ratio based on width of our Figma design
 double globalSize(double size, double width){
 // size is the size of the Widget in Figma file
 // width is the screen width of the device
